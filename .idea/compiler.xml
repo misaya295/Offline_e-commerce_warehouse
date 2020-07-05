@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Offline_e-commerce_warehouse" />
+        <module name="log-collector" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="log" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
