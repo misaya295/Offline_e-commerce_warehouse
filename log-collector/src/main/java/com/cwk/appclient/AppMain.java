@@ -1,4 +1,4 @@
-package com.cwk;
+package com.cwk.appclient;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Random;
