@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="log-collector" />
         <module name="ELTInterceptor" />
+        <module name="hive-function" />
+        <module name="log-collector" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

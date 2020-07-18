@@ -12,6 +12,7 @@
         <module>log</module>
         <module>log-collector</module>
         <module>ELTInterceptor</module>
+        <module>hive-function</module>
     </modules>
 
 
